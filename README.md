@@ -4,8 +4,6 @@ Developed a simple expense tracker using python and its frameworks
 
 A simple yet effective desktop application built with Python and Tkinter to help you manage your personal expenses. Track your spending, categorize expenses, and stay on top of your finances with an easy-to-use interface.
 
-![Screenshot of Expense Tracker (Optional: Add a screenshot of your application here if you have one)]
-*(Optional: If you add a screenshot, name it e.g., `expense_tracker_screenshot.png` and place it in your repository. Then you can use the markdown `![Screenshot Name](expense_tracker_screenshot.png)`)*
 
 ## 🌟 Features
 
@@ -80,4 +78,3 @@ A simple yet effective desktop application built with Python and Tkinter to help
 
 ---
 
-*(Optional: Add a License section if you wish, e.g., MIT License)*
